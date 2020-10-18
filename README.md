@@ -4,7 +4,7 @@ _the aime of this app is to create a simple API-server_
 
 ### LINKS AND RESOURCES
 
-[swagerHub](https://app.swaggerhub.com/apis/Othabteh/API-server/0.1#/default/get_products)
+[swaggerHub](https://app.swaggerhub.com/apis/Othabteh/API-server/0.1#/default/get_products)
 
 ### installation
 
