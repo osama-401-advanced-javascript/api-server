@@ -1,0 +1,34 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "_the aime of this app is to create a simple API-server_",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osama-401-advanced-javascript/api-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osama-401-advanced-javascript/api-server/issues"
+  },
+  "homepage": "https://github.com/osama-401-advanced-javascript/api-server#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^26.5.3",
+    "supertest": "^5.0.0"
+  }
+}
