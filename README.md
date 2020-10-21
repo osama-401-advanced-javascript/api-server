@@ -84,3 +84,42 @@ nodemon
 ### UML
 
 ![image](./assets/lab8.PNG)
+
+## lab-09
+
+### installation
+
+- npm i -g json-server
+- npm init -y
+- npm i express
+- npm i mongoose
+- npm i morgan
+- npm i cors
+- npm i -D @code-fellows/supergoose
+- npm i -D supetest jest
+
+### URL
+
+- http://localhost:3030/api/v1/categories
+- http://localhost:3030/api/v2/products
+
+### PORT
+
+- 3030
+
+### to run this app use this command
+
+nodemon
+
+### test
+
+- testing all the routs and the server using supergoose
+
+### deployed site
+
+[api-server](https://osama-api-sever.herokuapp.com)
+**just add (api/v1/ctegories) after the .com**
+
+### UML
+
+![image](./assets/lab8.PNG)
